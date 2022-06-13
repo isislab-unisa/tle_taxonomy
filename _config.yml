@@ -15,4 +15,4 @@ baseurl:          /
 paginate:         5
 
 github:
-  repo:           https://github.com/isislab-unisa/tle_taxonomy
+  repo:           https://github.com/isislab-unisa/tle_taxonomy/

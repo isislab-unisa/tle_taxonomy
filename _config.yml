@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'XXXXXXXXX'
+title:            CED K-12 TLE Taxonomy
+tagline:          'CED K-12 TLE Taxonomy'
+description:      ''
 url:              https://isislab-unisa.github.io/tle_taxonomy/
 baseurl:          /
 
